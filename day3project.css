@@ -1,0 +1,35 @@
+.ropic{
+    height: 100px;
+    width: 80px;
+}
+
+.row{
+    display: flex;
+}
+
+.coloumn{
+    border: 2px solid grey;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    background-color:#ffffe6;
+}
+
+.page{
+    background-color: lightcoral;
+}
+
+.rosebtn{
+    background-color: brown;
+    color: rgb(203, 155, 155);
+}
+
+.tulipbtn{
+    background-color: yellowgreen;
+    color:darkgreen;
+}
+
+.lilybtn{
+    background-color: palevioletred;
+    color: rebeccapurple;
+}
